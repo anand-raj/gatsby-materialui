@@ -68,14 +68,14 @@ const styles = theme => ({
 
 const featuredPosts = [
   {
-    title: 'Featured post',
+    title: 'Featured post 1',
     date: 'Nov 12',
     description:
       'This is a wider card with supporting text below as a natural lead-in to additional content.',
     imageUrl: "https://source.unsplash.com/160x199/?agriculture"
   },
   {
-    title: 'Post title',
+    title: 'Featured post 2',
     date: 'Nov 11',
     description:
       'This is a wider card with supporting text below as a natural lead-in to additional content.',
