@@ -26,7 +26,7 @@ export default () => {
                     <img src="https://source.unsplash.com/1110x400/?nightsky" alt="landscape" />
                     <div className="legend">
                         <Typography style={{ color: "white" }}>
-                            FLegend 3
+                            Legend 3
                     </Typography></div>
                 </div>
             </Carousel>
