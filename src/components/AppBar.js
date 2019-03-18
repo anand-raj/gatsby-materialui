@@ -27,7 +27,7 @@ function ButtonAppBar(props) {
           <Typography variant="h5" color="error" className={classes.grow} style={{fontWeight: "bold"}}>
             <span color="inherit" onClick={() => navigate("/")}>AIKKMS</span>
           </Typography>
-          <Button color="inherit" onClick={() => navigate("/articles")}>Articles</Button>
+          <Button color="inherit" onClick={() => navigate("/articles")}>Literature</Button>
           <Button color="inherit">News</Button>       
           <Button color="inherit">Organisation</Button>
         </Toolbar>
